@@ -46,7 +46,7 @@ Several classification and regression models were trained and evaluated based on
 -   **Elastic Net Regression** (Polynomial degree 2, with and without PCA, for different alpha and l1_ratio values)
     -   Visualizations of regression boundaries in 3D for PCA=2.
 
-## Key Findings (Example):
+## Key Findings :
 - The classification models (Decision Tree, Random Forest, XGBoost) generally achieved high accuracy in predicting loan status.
 - Ridge Regression showed promising results compared to Lasso and Elastic Net in certain configurations, indicating its effectiveness in handling multicollinearity and preventing overfitting.
 - PCA influenced the performance of regression models, with different numbers of components yielding varied results.
